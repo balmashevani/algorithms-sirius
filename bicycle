@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T08:29:12.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" etag="XEG-ZJMfikB7OXIdh4vq" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T08:33:35.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" etag="6oWizkVMZw-ew0ux394t" version="20.1.1" type="github">
   <diagram id="RmT8w5u8guhJNCo2q6pc" name="Page-1">
     <mxGraphModel dx="1093" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H_l4TggoT1xxPYLQ-8wq-6" value="вид по возрасту, полу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H_l4TggoT1xxPYLQ-8wq-6" value="вид по возрасту(по росту и вес велосипеда)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H_l4TggoT1xxPYLQ-8wq-7" value="вид по функции(горный, ситибайк, трековый и тд)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
